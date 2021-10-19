@@ -14,3 +14,8 @@ class AuthenticateUserController {
 }
 
 export { AuthenticateUserController }
+
+
+// https://nextlevelweek.com/episodios/impulse/aula-1/edicao/7
+
+// 53 min
